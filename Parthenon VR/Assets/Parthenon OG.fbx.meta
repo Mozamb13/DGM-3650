@@ -1,0 +1,1422 @@
+fileFormatVersion: 2
+guid: 1f297ba4c98f54494817c0f9a24797ab
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: COG
+    100002: Doors
+    100004: Doors_001
+    100006: Doors_002
+    100008: Doors_003
+    100010: Doors_004
+    100012: Entry_2
+    100014: Entry_3
+    100016: Fifth_Floor
+    100018: First_Floor
+    100020: Fourth_Floor
+    100022: Geo
+    100024: Ground_Floor
+    100026: Head
+    100028: L_Ankle
+    100030: L_Arm
+    100032: L_Arm_1
+    100034: L_Arm_2
+    100036: L_Foot
+    100038: L_Foot_1
+    100040: L_Leg
+    100042: L_Leg_1
+    100044: L_Leg_2
+    100046: //RootNode
+    100048: pCube3
+    100050: Pillar_000
+    100052: Pillar_001
+    100054: Pillar_002
+    100056: Pillar_003
+    100058: Pillar_004
+    100060: Pillar_005
+    100062: Pillar_006
+    100064: Pillar_007
+    100066: Pillar_008
+    100068: Pillar_009
+    100070: Pillar_010
+    100072: Pillar_011
+    100074: Pillar_012
+    100076: Pillar_013
+    100078: Pillar_014
+    100080: Pillar_015
+    100082: Pillar_016
+    100084: Pillar_017
+    100086: Pillar_018
+    100088: Pillar_019
+    100090: Pillar_020
+    100092: Pillar_021
+    100094: Pillar_022
+    100096: Pillar_023
+    100098: Pillar_024
+    100100: Pillar_025
+    100102: Pillar_026
+    100104: Pillar_027
+    100106: Pillar_028
+    100108: Pillar_029
+    100110: Pillar_030
+    100112: Pillar_031
+    100114: Pillar_032
+    100116: Pillar_033
+    100118: Pillar_034
+    100120: Pillar_035
+    100122: Pillar_036
+    100124: Pillar_037
+    100126: Pillar_038
+    100128: Pillar_039
+    100130: Pillar_040
+    100132: Pillar_041
+    100134: Pillar_042
+    100136: Pillar_043
+    100138: Pillar_044
+    100140: Pillar_045
+    100142: Pillar_046
+    100144: Pillar_047
+    100146: Pillar_048
+    100148: Pillar_049
+    100150: Pillar_050
+    100152: Pillar_051
+    100154: Pillar_052
+    100156: Pillar_053
+    100158: Pillar_054
+    100160: Pillar_055
+    100162: Pillar_056
+    100164: Pillar_057
+    100166: Pillar_058
+    100168: Pillar_059
+    100170: Pillar_060
+    100172: Pillar_061
+    100174: Pillar_062
+    100176: Pillar_063
+    100178: Pillar_064
+    100180: Pillar_065
+    100182: Pillar_066
+    100184: Pillar_067
+    100186: Pillar_068
+    100188: Pillar_069
+    100190: Pillar_070
+    100192: Pillar_071
+    100194: Pillar_072
+    100196: Pillar_073
+    100198: Pillar_074
+    100200: Pillar_075
+    100202: Pillar_076
+    100204: Pillar_077
+    100206: Pillar_078
+    100208: Pillar_079
+    100210: Pillar_080
+    100212: Pillar_081
+    100214: Pillar_082
+    100216: Pillar_083
+    100218: Pillar_084
+    100220: Pillar_085
+    100222: Pillar_086
+    100224: Pillar_087
+    100226: Pillar_088
+    100228: Pillar_089
+    100230: Pillar_090
+    100232: Pillar_091
+    100234: Pillar_092
+    100236: Pillar_093
+    100238: Pillar_094
+    100240: Pillar_095
+    100242: Pillar_096
+    100244: Pillar_097
+    100246: Pillar_098
+    100248: Pillar_099
+    100250: Pillar_100
+    100252: Pillar_101
+    100254: Pillar_102
+    100256: Pillar_103
+    100258: Pillar_104
+    100260: Pillar_105
+    100262: Pillar_106
+    100264: Pillar_107
+    100266: Pillar_Wall
+    100268: Pillar_Walls
+    100270: Pillars
+    100272: R_Ankle
+    100274: R_Arm
+    100276: R_Arm_1
+    100278: R_Arm_2
+    100280: R_Foot
+    100282: R_Foot 1
+    100284: R_Leg
+    100286: R_Leg_1
+    100288: R_Leg_2
+    100290: Roof
+    100292: Roof_Art
+    100294: Roof_Art1
+    100296: Roof_Art2
+    100298: Roof_Statue
+    100300: Second_Floor
+    100302: Second_Stair
+    100304: Second_Stair1
+    100306: Second_Stair2
+    100308: Second_Stair3
+    100310: Second_Stair4
+    100312: Second_Stair5
+    100314: Skeleton
+    100316: Spartan:Ankle
+    100318: Spartan:Ankle 1
+    100320: Spartan:Arc
+    100322: Spartan:Arc 1
+    100324: Spartan:Armpit
+    100326: Spartan:Armpit 1
+    100328: Spartan:Belt
+    100330: Spartan:Bicep
+    100332: Spartan:Bicep 1
+    100334: Spartan:Bracer
+    100336: Spartan:Bracer 1
+    100338: Spartan:Cape
+    100340: Spartan:Cape1
+    100342: Spartan:Cape_Pin
+    100344: Spartan:Finger
+    100346: Spartan:Finger 1
+    100348: Spartan:Finger1
+    100350: Spartan:Finger1 1
+    100352: Spartan:Finger2
+    100354: Spartan:Finger2 1
+    100356: Spartan:Finger3
+    100358: Spartan:Finger3 1
+    100360: Spartan:Finger4
+    100362: Spartan:Finger4 1
+    100364: Spartan:Foot
+    100366: Spartan:Foot 1
+    100368: Spartan:Forearm
+    100370: Spartan:Forearm 1
+    100372: Spartan:Geo
+    100374: Spartan:Hand
+    100376: Spartan:Hand 1
+    100378: Spartan:Hand 2
+    100380: Spartan:Hand 3
+    100382: Spartan:head
+    100384: Spartan:Heel
+    100386: Spartan:Heel 1
+    100388: Spartan:Knee
+    100390: Spartan:Knee 1
+    100392: Spartan:Knuckle
+    100394: Spartan:Knuckle 1
+    100396: Spartan:Knuckle1
+    100398: Spartan:Knuckle1 1
+    100400: Spartan:Knuckle2
+    100402: Spartan:Knuckle2 1
+    100404: Spartan:Knuckle3
+    100406: Spartan:Knuckle3 1
+    100408: Spartan:L_Arm
+    100410: Spartan:L_Leg
+    100412: Spartan:Leg
+    100414: Spartan:Leg 1
+    100416: Spartan:Lower_torso
+    100418: Spartan:Neck
+    100420: Spartan:pCylinder1
+    100422: Spartan:pCylinder1 1
+    100424: Spartan:pCylinder2
+    100426: Spartan:pCylinder2 1
+    100428: Spartan:pCylinder3
+    100430: Spartan:pCylinder3 1
+    100432: Spartan:pCylinder3 2
+    100434: Spartan:pCylinder3 3
+    100436: Spartan:pCylinder3 4
+    100438: Spartan:pCylinder3 5
+    100440: Spartan:pCylinder3 6
+    100442: Spartan:pCylinder3 7
+    100444: Spartan:pCylinder4
+    100446: Spartan:pCylinder4 1
+    100448: Spartan:pCylinder4 2
+    100450: Spartan:pCylinder4 3
+    100452: Spartan:pCylinder4 4
+    100454: Spartan:pCylinder4 5
+    100456: Spartan:pCylinder4 6
+    100458: Spartan:pCylinder4 7
+    100460: Spartan:pCylinder5
+    100462: Spartan:pCylinder5 1
+    100464: Spartan:pCylinder5 2
+    100466: Spartan:pCylinder5 3
+    100468: Spartan:pCylinder5 4
+    100470: Spartan:pCylinder5 5
+    100472: Spartan:pCylinder5 6
+    100474: Spartan:pCylinder5 7
+    100476: Spartan:pSphere10
+    100478: Spartan:pSphere10 1
+    100480: Spartan:pSphere10 2
+    100482: Spartan:pSphere10 3
+    100484: Spartan:pSphere10 4
+    100486: Spartan:pSphere10 5
+    100488: Spartan:pSphere10 6
+    100490: Spartan:pSphere10 7
+    100492: Spartan:pSphere8
+    100494: Spartan:pSphere8 1
+    100496: Spartan:pSphere9
+    100498: Spartan:pSphere9 1
+    100500: Spartan:pSphere9 2
+    100502: Spartan:pSphere9 3
+    100504: Spartan:pSphere9 4
+    100506: Spartan:pSphere9 5
+    100508: Spartan:pSphere9 6
+    100510: Spartan:pSphere9 7
+    100512: Spartan:R_Arm
+    100514: Spartan:R_Leg
+    100516: Spartan:Sholder
+    100518: Spartan:Sholder 1
+    100520: Spartan:Spartan
+    100522: Spartan:Thigh
+    100524: Spartan:Thigh 1
+    100526: Spartan:Thigh_1
+    100528: Spartan:Thigh_1 1
+    100530: Spartan:Thumb_Base
+    100532: Spartan:Thumb_Base 1
+    100534: Spartan:Toes
+    100536: Spartan:Toes 1
+    100538: Spartan:Torso
+    100540: Spartan:Torso1
+    100542: Spartan:Waist
+    100544: Spartan:Waist 1
+    100546: Statue_Stand
+    100548: Statute
+    100550: Temple_Grounds
+    100552: Temple_grounds
+    100554: Third_Floor
+    100556: Tree
+    100558: Tree_000
+    100560: Tree_001
+    100562: Tree_002
+    100564: Tree_003
+    100566: Tree_004
+    100568: Tree_005
+    100570: Tree_006
+    100572: Tree_007
+    100574: Tree_008
+    100576: Tree_009
+    100578: Walls
+    400000: COG
+    400002: Doors
+    400004: Doors_001
+    400006: Doors_002
+    400008: Doors_003
+    400010: Doors_004
+    400012: Entry_2
+    400014: Entry_3
+    400016: Fifth_Floor
+    400018: First_Floor
+    400020: Fourth_Floor
+    400022: Geo
+    400024: Ground_Floor
+    400026: Head
+    400028: L_Ankle
+    400030: L_Arm
+    400032: L_Arm_1
+    400034: L_Arm_2
+    400036: L_Foot
+    400038: L_Foot_1
+    400040: L_Leg
+    400042: L_Leg_1
+    400044: L_Leg_2
+    400046: //RootNode
+    400048: pCube3
+    400050: Pillar_000
+    400052: Pillar_001
+    400054: Pillar_002
+    400056: Pillar_003
+    400058: Pillar_004
+    400060: Pillar_005
+    400062: Pillar_006
+    400064: Pillar_007
+    400066: Pillar_008
+    400068: Pillar_009
+    400070: Pillar_010
+    400072: Pillar_011
+    400074: Pillar_012
+    400076: Pillar_013
+    400078: Pillar_014
+    400080: Pillar_015
+    400082: Pillar_016
+    400084: Pillar_017
+    400086: Pillar_018
+    400088: Pillar_019
+    400090: Pillar_020
+    400092: Pillar_021
+    400094: Pillar_022
+    400096: Pillar_023
+    400098: Pillar_024
+    400100: Pillar_025
+    400102: Pillar_026
+    400104: Pillar_027
+    400106: Pillar_028
+    400108: Pillar_029
+    400110: Pillar_030
+    400112: Pillar_031
+    400114: Pillar_032
+    400116: Pillar_033
+    400118: Pillar_034
+    400120: Pillar_035
+    400122: Pillar_036
+    400124: Pillar_037
+    400126: Pillar_038
+    400128: Pillar_039
+    400130: Pillar_040
+    400132: Pillar_041
+    400134: Pillar_042
+    400136: Pillar_043
+    400138: Pillar_044
+    400140: Pillar_045
+    400142: Pillar_046
+    400144: Pillar_047
+    400146: Pillar_048
+    400148: Pillar_049
+    400150: Pillar_050
+    400152: Pillar_051
+    400154: Pillar_052
+    400156: Pillar_053
+    400158: Pillar_054
+    400160: Pillar_055
+    400162: Pillar_056
+    400164: Pillar_057
+    400166: Pillar_058
+    400168: Pillar_059
+    400170: Pillar_060
+    400172: Pillar_061
+    400174: Pillar_062
+    400176: Pillar_063
+    400178: Pillar_064
+    400180: Pillar_065
+    400182: Pillar_066
+    400184: Pillar_067
+    400186: Pillar_068
+    400188: Pillar_069
+    400190: Pillar_070
+    400192: Pillar_071
+    400194: Pillar_072
+    400196: Pillar_073
+    400198: Pillar_074
+    400200: Pillar_075
+    400202: Pillar_076
+    400204: Pillar_077
+    400206: Pillar_078
+    400208: Pillar_079
+    400210: Pillar_080
+    400212: Pillar_081
+    400214: Pillar_082
+    400216: Pillar_083
+    400218: Pillar_084
+    400220: Pillar_085
+    400222: Pillar_086
+    400224: Pillar_087
+    400226: Pillar_088
+    400228: Pillar_089
+    400230: Pillar_090
+    400232: Pillar_091
+    400234: Pillar_092
+    400236: Pillar_093
+    400238: Pillar_094
+    400240: Pillar_095
+    400242: Pillar_096
+    400244: Pillar_097
+    400246: Pillar_098
+    400248: Pillar_099
+    400250: Pillar_100
+    400252: Pillar_101
+    400254: Pillar_102
+    400256: Pillar_103
+    400258: Pillar_104
+    400260: Pillar_105
+    400262: Pillar_106
+    400264: Pillar_107
+    400266: Pillar_Wall
+    400268: Pillar_Walls
+    400270: Pillars
+    400272: R_Ankle
+    400274: R_Arm
+    400276: R_Arm_1
+    400278: R_Arm_2
+    400280: R_Foot
+    400282: R_Foot 1
+    400284: R_Leg
+    400286: R_Leg_1
+    400288: R_Leg_2
+    400290: Roof
+    400292: Roof_Art
+    400294: Roof_Art1
+    400296: Roof_Art2
+    400298: Roof_Statue
+    400300: Second_Floor
+    400302: Second_Stair
+    400304: Second_Stair1
+    400306: Second_Stair2
+    400308: Second_Stair3
+    400310: Second_Stair4
+    400312: Second_Stair5
+    400314: Skeleton
+    400316: Spartan:Ankle
+    400318: Spartan:Ankle 1
+    400320: Spartan:Arc
+    400322: Spartan:Arc 1
+    400324: Spartan:Armpit
+    400326: Spartan:Armpit 1
+    400328: Spartan:Belt
+    400330: Spartan:Bicep
+    400332: Spartan:Bicep 1
+    400334: Spartan:Bracer
+    400336: Spartan:Bracer 1
+    400338: Spartan:Cape
+    400340: Spartan:Cape1
+    400342: Spartan:Cape_Pin
+    400344: Spartan:Finger
+    400346: Spartan:Finger 1
+    400348: Spartan:Finger1
+    400350: Spartan:Finger1 1
+    400352: Spartan:Finger2
+    400354: Spartan:Finger2 1
+    400356: Spartan:Finger3
+    400358: Spartan:Finger3 1
+    400360: Spartan:Finger4
+    400362: Spartan:Finger4 1
+    400364: Spartan:Foot
+    400366: Spartan:Foot 1
+    400368: Spartan:Forearm
+    400370: Spartan:Forearm 1
+    400372: Spartan:Geo
+    400374: Spartan:Hand
+    400376: Spartan:Hand 1
+    400378: Spartan:Hand 2
+    400380: Spartan:Hand 3
+    400382: Spartan:head
+    400384: Spartan:Heel
+    400386: Spartan:Heel 1
+    400388: Spartan:Knee
+    400390: Spartan:Knee 1
+    400392: Spartan:Knuckle
+    400394: Spartan:Knuckle 1
+    400396: Spartan:Knuckle1
+    400398: Spartan:Knuckle1 1
+    400400: Spartan:Knuckle2
+    400402: Spartan:Knuckle2 1
+    400404: Spartan:Knuckle3
+    400406: Spartan:Knuckle3 1
+    400408: Spartan:L_Arm
+    400410: Spartan:L_Leg
+    400412: Spartan:Leg
+    400414: Spartan:Leg 1
+    400416: Spartan:Lower_torso
+    400418: Spartan:Neck
+    400420: Spartan:pCylinder1
+    400422: Spartan:pCylinder1 1
+    400424: Spartan:pCylinder2
+    400426: Spartan:pCylinder2 1
+    400428: Spartan:pCylinder3
+    400430: Spartan:pCylinder3 1
+    400432: Spartan:pCylinder3 2
+    400434: Spartan:pCylinder3 3
+    400436: Spartan:pCylinder3 4
+    400438: Spartan:pCylinder3 5
+    400440: Spartan:pCylinder3 6
+    400442: Spartan:pCylinder3 7
+    400444: Spartan:pCylinder4
+    400446: Spartan:pCylinder4 1
+    400448: Spartan:pCylinder4 2
+    400450: Spartan:pCylinder4 3
+    400452: Spartan:pCylinder4 4
+    400454: Spartan:pCylinder4 5
+    400456: Spartan:pCylinder4 6
+    400458: Spartan:pCylinder4 7
+    400460: Spartan:pCylinder5
+    400462: Spartan:pCylinder5 1
+    400464: Spartan:pCylinder5 2
+    400466: Spartan:pCylinder5 3
+    400468: Spartan:pCylinder5 4
+    400470: Spartan:pCylinder5 5
+    400472: Spartan:pCylinder5 6
+    400474: Spartan:pCylinder5 7
+    400476: Spartan:pSphere10
+    400478: Spartan:pSphere10 1
+    400480: Spartan:pSphere10 2
+    400482: Spartan:pSphere10 3
+    400484: Spartan:pSphere10 4
+    400486: Spartan:pSphere10 5
+    400488: Spartan:pSphere10 6
+    400490: Spartan:pSphere10 7
+    400492: Spartan:pSphere8
+    400494: Spartan:pSphere8 1
+    400496: Spartan:pSphere9
+    400498: Spartan:pSphere9 1
+    400500: Spartan:pSphere9 2
+    400502: Spartan:pSphere9 3
+    400504: Spartan:pSphere9 4
+    400506: Spartan:pSphere9 5
+    400508: Spartan:pSphere9 6
+    400510: Spartan:pSphere9 7
+    400512: Spartan:R_Arm
+    400514: Spartan:R_Leg
+    400516: Spartan:Sholder
+    400518: Spartan:Sholder 1
+    400520: Spartan:Spartan
+    400522: Spartan:Thigh
+    400524: Spartan:Thigh 1
+    400526: Spartan:Thigh_1
+    400528: Spartan:Thigh_1 1
+    400530: Spartan:Thumb_Base
+    400532: Spartan:Thumb_Base 1
+    400534: Spartan:Toes
+    400536: Spartan:Toes 1
+    400538: Spartan:Torso
+    400540: Spartan:Torso1
+    400542: Spartan:Waist
+    400544: Spartan:Waist 1
+    400546: Statue_Stand
+    400548: Statute
+    400550: Temple_Grounds
+    400552: Temple_grounds
+    400554: Third_Floor
+    400556: Tree
+    400558: Tree_000
+    400560: Tree_001
+    400562: Tree_002
+    400564: Tree_003
+    400566: Tree_004
+    400568: Tree_005
+    400570: Tree_006
+    400572: Tree_007
+    400574: Tree_008
+    400576: Tree_009
+    400578: Walls
+    2100000: lambert1
+    2100002: lambert2
+    2300000: Doors_001
+    2300002: Doors_002
+    2300004: Doors_003
+    2300006: Doors_004
+    2300008: Entry_2
+    2300010: Fifth_Floor
+    2300012: First_Floor
+    2300014: Fourth_Floor
+    2300016: pCube3
+    2300018: Pillar_000
+    2300020: Pillar_001
+    2300022: Pillar_002
+    2300024: Pillar_003
+    2300026: Pillar_004
+    2300028: Pillar_005
+    2300030: Pillar_006
+    2300032: Pillar_007
+    2300034: Pillar_008
+    2300036: Pillar_009
+    2300038: Pillar_010
+    2300040: Pillar_011
+    2300042: Pillar_012
+    2300044: Pillar_013
+    2300046: Pillar_014
+    2300048: Pillar_015
+    2300050: Pillar_016
+    2300052: Pillar_017
+    2300054: Pillar_018
+    2300056: Pillar_019
+    2300058: Pillar_020
+    2300060: Pillar_021
+    2300062: Pillar_022
+    2300064: Pillar_023
+    2300066: Pillar_024
+    2300068: Pillar_025
+    2300070: Pillar_026
+    2300072: Pillar_027
+    2300074: Pillar_028
+    2300076: Pillar_029
+    2300078: Pillar_030
+    2300080: Pillar_031
+    2300082: Pillar_032
+    2300084: Pillar_033
+    2300086: Pillar_034
+    2300088: Pillar_035
+    2300090: Pillar_036
+    2300092: Pillar_037
+    2300094: Pillar_038
+    2300096: Pillar_039
+    2300098: Pillar_040
+    2300100: Pillar_041
+    2300102: Pillar_042
+    2300104: Pillar_043
+    2300106: Pillar_044
+    2300108: Pillar_045
+    2300110: Pillar_046
+    2300112: Pillar_047
+    2300114: Pillar_048
+    2300116: Pillar_049
+    2300118: Pillar_050
+    2300120: Pillar_051
+    2300122: Pillar_052
+    2300124: Pillar_053
+    2300126: Pillar_054
+    2300128: Pillar_055
+    2300130: Pillar_056
+    2300132: Pillar_057
+    2300134: Pillar_058
+    2300136: Pillar_059
+    2300138: Pillar_060
+    2300140: Pillar_061
+    2300142: Pillar_062
+    2300144: Pillar_063
+    2300146: Pillar_064
+    2300148: Pillar_065
+    2300150: Pillar_066
+    2300152: Pillar_067
+    2300154: Pillar_068
+    2300156: Pillar_069
+    2300158: Pillar_070
+    2300160: Pillar_071
+    2300162: Pillar_072
+    2300164: Pillar_073
+    2300166: Pillar_074
+    2300168: Pillar_075
+    2300170: Pillar_076
+    2300172: Pillar_077
+    2300174: Pillar_078
+    2300176: Pillar_079
+    2300178: Pillar_080
+    2300180: Pillar_081
+    2300182: Pillar_082
+    2300184: Pillar_083
+    2300186: Pillar_084
+    2300188: Pillar_085
+    2300190: Pillar_086
+    2300192: Pillar_087
+    2300194: Pillar_088
+    2300196: Pillar_089
+    2300198: Pillar_090
+    2300200: Pillar_091
+    2300202: Pillar_092
+    2300204: Pillar_093
+    2300206: Pillar_094
+    2300208: Pillar_095
+    2300210: Pillar_096
+    2300212: Pillar_097
+    2300214: Pillar_098
+    2300216: Pillar_099
+    2300218: Pillar_100
+    2300220: Pillar_101
+    2300222: Pillar_102
+    2300224: Pillar_103
+    2300226: Pillar_104
+    2300228: Pillar_105
+    2300230: Pillar_106
+    2300232: Pillar_107
+    2300234: Pillar_Wall
+    2300236: Roof_Art
+    2300238: Roof_Art1
+    2300240: Roof_Art2
+    2300242: Roof_Statue
+    2300244: Second_Floor
+    2300246: Second_Stair
+    2300248: Second_Stair1
+    2300250: Second_Stair2
+    2300252: Second_Stair3
+    2300254: Second_Stair4
+    2300256: Second_Stair5
+    2300258: Statue_Stand
+    2300260: Temple_grounds
+    2300262: Third_Floor
+    2300264: Tree_000
+    2300266: Tree_001
+    2300268: Tree_002
+    2300270: Tree_003
+    2300272: Tree_004
+    2300274: Tree_005
+    2300276: Tree_006
+    2300278: Tree_007
+    2300280: Tree_008
+    2300282: Tree_009
+    3300000: Doors_001
+    3300002: Doors_002
+    3300004: Doors_003
+    3300006: Doors_004
+    3300008: Entry_2
+    3300010: Fifth_Floor
+    3300012: First_Floor
+    3300014: Fourth_Floor
+    3300016: pCube3
+    3300018: Pillar_000
+    3300020: Pillar_001
+    3300022: Pillar_002
+    3300024: Pillar_003
+    3300026: Pillar_004
+    3300028: Pillar_005
+    3300030: Pillar_006
+    3300032: Pillar_007
+    3300034: Pillar_008
+    3300036: Pillar_009
+    3300038: Pillar_010
+    3300040: Pillar_011
+    3300042: Pillar_012
+    3300044: Pillar_013
+    3300046: Pillar_014
+    3300048: Pillar_015
+    3300050: Pillar_016
+    3300052: Pillar_017
+    3300054: Pillar_018
+    3300056: Pillar_019
+    3300058: Pillar_020
+    3300060: Pillar_021
+    3300062: Pillar_022
+    3300064: Pillar_023
+    3300066: Pillar_024
+    3300068: Pillar_025
+    3300070: Pillar_026
+    3300072: Pillar_027
+    3300074: Pillar_028
+    3300076: Pillar_029
+    3300078: Pillar_030
+    3300080: Pillar_031
+    3300082: Pillar_032
+    3300084: Pillar_033
+    3300086: Pillar_034
+    3300088: Pillar_035
+    3300090: Pillar_036
+    3300092: Pillar_037
+    3300094: Pillar_038
+    3300096: Pillar_039
+    3300098: Pillar_040
+    3300100: Pillar_041
+    3300102: Pillar_042
+    3300104: Pillar_043
+    3300106: Pillar_044
+    3300108: Pillar_045
+    3300110: Pillar_046
+    3300112: Pillar_047
+    3300114: Pillar_048
+    3300116: Pillar_049
+    3300118: Pillar_050
+    3300120: Pillar_051
+    3300122: Pillar_052
+    3300124: Pillar_053
+    3300126: Pillar_054
+    3300128: Pillar_055
+    3300130: Pillar_056
+    3300132: Pillar_057
+    3300134: Pillar_058
+    3300136: Pillar_059
+    3300138: Pillar_060
+    3300140: Pillar_061
+    3300142: Pillar_062
+    3300144: Pillar_063
+    3300146: Pillar_064
+    3300148: Pillar_065
+    3300150: Pillar_066
+    3300152: Pillar_067
+    3300154: Pillar_068
+    3300156: Pillar_069
+    3300158: Pillar_070
+    3300160: Pillar_071
+    3300162: Pillar_072
+    3300164: Pillar_073
+    3300166: Pillar_074
+    3300168: Pillar_075
+    3300170: Pillar_076
+    3300172: Pillar_077
+    3300174: Pillar_078
+    3300176: Pillar_079
+    3300178: Pillar_080
+    3300180: Pillar_081
+    3300182: Pillar_082
+    3300184: Pillar_083
+    3300186: Pillar_084
+    3300188: Pillar_085
+    3300190: Pillar_086
+    3300192: Pillar_087
+    3300194: Pillar_088
+    3300196: Pillar_089
+    3300198: Pillar_090
+    3300200: Pillar_091
+    3300202: Pillar_092
+    3300204: Pillar_093
+    3300206: Pillar_094
+    3300208: Pillar_095
+    3300210: Pillar_096
+    3300212: Pillar_097
+    3300214: Pillar_098
+    3300216: Pillar_099
+    3300218: Pillar_100
+    3300220: Pillar_101
+    3300222: Pillar_102
+    3300224: Pillar_103
+    3300226: Pillar_104
+    3300228: Pillar_105
+    3300230: Pillar_106
+    3300232: Pillar_107
+    3300234: Pillar_Wall
+    3300236: Roof_Art
+    3300238: Roof_Art1
+    3300240: Roof_Art2
+    3300242: Roof_Statue
+    3300244: Second_Floor
+    3300246: Second_Stair
+    3300248: Second_Stair1
+    3300250: Second_Stair2
+    3300252: Second_Stair3
+    3300254: Second_Stair4
+    3300256: Second_Stair5
+    3300258: Statue_Stand
+    3300260: Temple_grounds
+    3300262: Third_Floor
+    3300264: Tree_000
+    3300266: Tree_001
+    3300268: Tree_002
+    3300270: Tree_003
+    3300272: Tree_004
+    3300274: Tree_005
+    3300276: Tree_006
+    3300278: Tree_007
+    3300280: Tree_008
+    3300282: Tree_009
+    4300000: Roof_Art
+    4300002: Roof_Statue
+    4300004: pCube3
+    4300006: Roof_Art1
+    4300008: Roof_Art2
+    4300010: First_Floor
+    4300012: Second_Floor
+    4300014: Third_Floor
+    4300016: Fourth_Floor
+    4300018: Fifth_Floor
+    4300020: Second_Stair
+    4300022: Second_Stair1
+    4300024: Second_Stair2
+    4300026: Second_Stair3
+    4300028: Second_Stair4
+    4300030: Second_Stair5
+    4300032: Pillar_Wall
+    4300034: Pillar_000
+    4300036: Pillar_001
+    4300038: Pillar_002
+    4300040: Pillar_003
+    4300042: Pillar_004
+    4300044: Pillar_005
+    4300046: Pillar_006
+    4300048: Pillar_007
+    4300050: Pillar_008
+    4300052: Pillar_009
+    4300054: Pillar_010
+    4300056: Pillar_011
+    4300058: Pillar_012
+    4300060: Pillar_013
+    4300062: Pillar_014
+    4300064: Pillar_015
+    4300066: Pillar_016
+    4300068: Pillar_017
+    4300070: Pillar_018
+    4300072: Pillar_019
+    4300074: Pillar_020
+    4300076: Pillar_021
+    4300078: Pillar_022
+    4300080: Pillar_023
+    4300082: Pillar_024
+    4300084: Pillar_025
+    4300086: Pillar_026
+    4300088: Pillar_027
+    4300090: Pillar_028
+    4300092: Pillar_029
+    4300094: Pillar_030
+    4300096: Pillar_031
+    4300098: Pillar_032
+    4300100: Pillar_033
+    4300102: Pillar_034
+    4300104: Pillar_035
+    4300106: Pillar_036
+    4300108: Pillar_037
+    4300110: Pillar_038
+    4300112: Pillar_039
+    4300114: Pillar_040
+    4300116: Pillar_041
+    4300118: Pillar_042
+    4300120: Pillar_043
+    4300122: Pillar_044
+    4300124: Pillar_045
+    4300126: Pillar_046
+    4300128: Pillar_047
+    4300130: Pillar_048
+    4300132: Pillar_049
+    4300134: Pillar_050
+    4300136: Pillar_051
+    4300138: Pillar_052
+    4300140: Pillar_053
+    4300142: Pillar_054
+    4300144: Pillar_055
+    4300146: Pillar_056
+    4300148: Pillar_057
+    4300150: Pillar_058
+    4300152: Pillar_059
+    4300154: Pillar_060
+    4300156: Pillar_061
+    4300158: Pillar_062
+    4300160: Pillar_063
+    4300162: Pillar_064
+    4300164: Pillar_065
+    4300166: Pillar_066
+    4300168: Pillar_067
+    4300170: Pillar_068
+    4300172: Pillar_069
+    4300174: Pillar_070
+    4300176: Pillar_071
+    4300178: Pillar_072
+    4300180: Pillar_073
+    4300182: Pillar_074
+    4300184: Pillar_075
+    4300186: Pillar_076
+    4300188: Pillar_077
+    4300190: Pillar_078
+    4300192: Pillar_079
+    4300194: Pillar_080
+    4300196: Pillar_081
+    4300198: Pillar_082
+    4300200: Pillar_083
+    4300202: Pillar_084
+    4300204: Pillar_085
+    4300206: Pillar_086
+    4300208: Pillar_087
+    4300210: Pillar_088
+    4300212: Pillar_089
+    4300214: Pillar_090
+    4300216: Pillar_091
+    4300218: Pillar_092
+    4300220: Pillar_093
+    4300222: Pillar_094
+    4300224: Pillar_095
+    4300226: Pillar_096
+    4300228: Pillar_097
+    4300230: Pillar_098
+    4300232: Pillar_099
+    4300234: Pillar_100
+    4300236: Pillar_101
+    4300238: Pillar_102
+    4300240: Pillar_103
+    4300242: Pillar_104
+    4300244: Pillar_105
+    4300246: Pillar_106
+    4300248: Pillar_107
+    4300250: Entry_2
+    4300252: Statue_Stand
+    4300254: Temple_grounds
+    4300256: Tree_000
+    4300258: Tree_001
+    4300260: Tree_002
+    4300262: Tree_003
+    4300264: Tree_004
+    4300266: Tree_005
+    4300268: Tree_006
+    4300270: Tree_007
+    4300272: Tree_008
+    4300274: Tree_009
+    4300276: Spartan:Sholder
+    4300278: Spartan:Bracer
+    4300280: Spartan:Forearm
+    4300282: Spartan:Bicep
+    4300284: Spartan:Armpit
+    4300286: Spartan:Hand
+    4300288: Spartan:Thumb_Base
+    4300290: Spartan:Knuckle
+    4300292: Spartan:Knuckle1
+    4300294: Spartan:Knuckle2
+    4300296: Spartan:Knuckle3
+    4300298: Spartan:pCylinder2
+    4300300: Spartan:pSphere8
+    4300302: Spartan:pCylinder1
+    4300304: Spartan:pCylinder3
+    4300306: Spartan:pSphere9
+    4300308: Spartan:pCylinder4
+    4300310: Spartan:pSphere10
+    4300312: Spartan:pCylinder5
+    4300314: Spartan:pCylinder3
+    4300316: Spartan:pSphere9
+    4300318: Spartan:pCylinder4
+    4300320: Spartan:pSphere10
+    4300322: Spartan:pCylinder5
+    4300324: Spartan:pCylinder3
+    4300326: Spartan:pSphere9
+    4300328: Spartan:pCylinder4
+    4300330: Spartan:pSphere10
+    4300332: Spartan:pCylinder5
+    4300334: Spartan:pCylinder3
+    4300336: Spartan:pSphere9
+    4300338: Spartan:pCylinder4
+    4300340: Spartan:pSphere10
+    4300342: Spartan:pCylinder5
+    4300344: Spartan:Sholder
+    4300346: Spartan:Bracer
+    4300348: Spartan:Forearm
+    4300350: Spartan:Bicep
+    4300352: Spartan:Armpit
+    4300354: Spartan:Hand
+    4300356: Spartan:Thumb_Base
+    4300358: Spartan:Knuckle
+    4300360: Spartan:Knuckle1
+    4300362: Spartan:Knuckle2
+    4300364: Spartan:Knuckle3
+    4300366: Spartan:pCylinder2
+    4300368: Spartan:pSphere8
+    4300370: Spartan:pCylinder1
+    4300372: Spartan:pCylinder3
+    4300374: Spartan:pSphere9
+    4300376: Spartan:pCylinder4
+    4300378: Spartan:pSphere10
+    4300380: Spartan:pCylinder5
+    4300382: Spartan:pCylinder3
+    4300384: Spartan:pSphere9
+    4300386: Spartan:pCylinder4
+    4300388: Spartan:pSphere10
+    4300390: Spartan:pCylinder5
+    4300392: Spartan:pCylinder3
+    4300394: Spartan:pSphere9
+    4300396: Spartan:pCylinder4
+    4300398: Spartan:pSphere10
+    4300400: Spartan:pCylinder5
+    4300402: Spartan:pCylinder3
+    4300404: Spartan:pSphere9
+    4300406: Spartan:pCylinder4
+    4300408: Spartan:pSphere10
+    4300410: Spartan:pCylinder5
+    4300412: Spartan:Torso1
+    4300414: Spartan:Lower_torso
+    4300416: Spartan:Cape_Pin
+    4300418: Spartan:Cape1
+    4300420: Spartan:Neck
+    4300422: Spartan:head
+    4300424: Spartan:Belt
+    4300426: Spartan:Waist
+    4300428: Spartan:Thigh
+    4300430: Spartan:Thigh_1
+    4300432: Spartan:Knee
+    4300434: Spartan:Leg
+    4300436: Spartan:Ankle
+    4300438: Spartan:Heel
+    4300440: Spartan:Toes
+    4300442: Spartan:Arc
+    4300444: Spartan:Thigh
+    4300446: Spartan:Thigh_1
+    4300448: Spartan:Knee
+    4300450: Spartan:Leg
+    4300452: Spartan:Ankle
+    4300454: Spartan:Heel
+    4300456: Spartan:Toes
+    4300458: Spartan:Arc
+    4300460: Doors_001
+    4300462: Doors_002
+    4300464: Doors_003
+    4300466: Doors_004
+    6400000: Doors_001
+    6400002: Doors_002
+    6400004: Doors_003
+    6400006: Doors_004
+    6400008: Entry_2
+    6400010: Fifth_Floor
+    6400012: First_Floor
+    6400014: Fourth_Floor
+    6400016: pCube3
+    6400018: Pillar_000
+    6400020: Pillar_001
+    6400022: Pillar_002
+    6400024: Pillar_003
+    6400026: Pillar_004
+    6400028: Pillar_005
+    6400030: Pillar_006
+    6400032: Pillar_007
+    6400034: Pillar_008
+    6400036: Pillar_009
+    6400038: Pillar_010
+    6400040: Pillar_011
+    6400042: Pillar_012
+    6400044: Pillar_013
+    6400046: Pillar_014
+    6400048: Pillar_015
+    6400050: Pillar_016
+    6400052: Pillar_017
+    6400054: Pillar_018
+    6400056: Pillar_019
+    6400058: Pillar_020
+    6400060: Pillar_021
+    6400062: Pillar_022
+    6400064: Pillar_023
+    6400066: Pillar_024
+    6400068: Pillar_025
+    6400070: Pillar_026
+    6400072: Pillar_027
+    6400074: Pillar_028
+    6400076: Pillar_029
+    6400078: Pillar_030
+    6400080: Pillar_031
+    6400082: Pillar_032
+    6400084: Pillar_033
+    6400086: Pillar_034
+    6400088: Pillar_035
+    6400090: Pillar_036
+    6400092: Pillar_037
+    6400094: Pillar_038
+    6400096: Pillar_039
+    6400098: Pillar_040
+    6400100: Pillar_041
+    6400102: Pillar_042
+    6400104: Pillar_043
+    6400106: Pillar_044
+    6400108: Pillar_045
+    6400110: Pillar_046
+    6400112: Pillar_047
+    6400114: Pillar_048
+    6400116: Pillar_049
+    6400118: Pillar_050
+    6400120: Pillar_051
+    6400122: Pillar_052
+    6400124: Pillar_053
+    6400126: Pillar_054
+    6400128: Pillar_055
+    6400130: Pillar_056
+    6400132: Pillar_057
+    6400134: Pillar_058
+    6400136: Pillar_059
+    6400138: Pillar_060
+    6400140: Pillar_061
+    6400142: Pillar_062
+    6400144: Pillar_063
+    6400146: Pillar_064
+    6400148: Pillar_065
+    6400150: Pillar_066
+    6400152: Pillar_067
+    6400154: Pillar_068
+    6400156: Pillar_069
+    6400158: Pillar_070
+    6400160: Pillar_071
+    6400162: Pillar_072
+    6400164: Pillar_073
+    6400166: Pillar_074
+    6400168: Pillar_075
+    6400170: Pillar_076
+    6400172: Pillar_077
+    6400174: Pillar_078
+    6400176: Pillar_079
+    6400178: Pillar_080
+    6400180: Pillar_081
+    6400182: Pillar_082
+    6400184: Pillar_083
+    6400186: Pillar_084
+    6400188: Pillar_085
+    6400190: Pillar_086
+    6400192: Pillar_087
+    6400194: Pillar_088
+    6400196: Pillar_089
+    6400198: Pillar_090
+    6400200: Pillar_091
+    6400202: Pillar_092
+    6400204: Pillar_093
+    6400206: Pillar_094
+    6400208: Pillar_095
+    6400210: Pillar_096
+    6400212: Pillar_097
+    6400214: Pillar_098
+    6400216: Pillar_099
+    6400218: Pillar_100
+    6400220: Pillar_101
+    6400222: Pillar_102
+    6400224: Pillar_103
+    6400226: Pillar_104
+    6400228: Pillar_105
+    6400230: Pillar_106
+    6400232: Pillar_107
+    6400234: Pillar_Wall
+    6400236: Roof_Art
+    6400238: Roof_Art1
+    6400240: Roof_Art2
+    6400242: Roof_Statue
+    6400244: Second_Floor
+    6400246: Second_Stair
+    6400248: Second_Stair1
+    6400250: Second_Stair2
+    6400252: Second_Stair3
+    6400254: Second_Stair4
+    6400256: Second_Stair5
+    6400258: Statue_Stand
+    6400260: Temple_grounds
+    6400262: Third_Floor
+    6400264: Tree_000
+    6400266: Tree_001
+    6400268: Tree_002
+    6400270: Tree_003
+    6400272: Tree_004
+    6400274: Tree_005
+    6400276: Tree_006
+    6400278: Tree_007
+    6400280: Tree_008
+    6400282: Tree_009
+    9500000: //RootNode
+    13700000: Spartan:Ankle
+    13700002: Spartan:Ankle 1
+    13700004: Spartan:Arc
+    13700006: Spartan:Arc 1
+    13700008: Spartan:Armpit
+    13700010: Spartan:Armpit 1
+    13700012: Spartan:Belt
+    13700014: Spartan:Bicep
+    13700016: Spartan:Bicep 1
+    13700018: Spartan:Bracer
+    13700020: Spartan:Bracer 1
+    13700022: Spartan:Cape1
+    13700024: Spartan:Cape_Pin
+    13700026: Spartan:Forearm
+    13700028: Spartan:Forearm 1
+    13700030: Spartan:Hand 2
+    13700032: Spartan:Hand 3
+    13700034: Spartan:head
+    13700036: Spartan:Heel
+    13700038: Spartan:Heel 1
+    13700040: Spartan:Knee
+    13700042: Spartan:Knee 1
+    13700044: Spartan:Knuckle
+    13700046: Spartan:Knuckle 1
+    13700048: Spartan:Knuckle1
+    13700050: Spartan:Knuckle1 1
+    13700052: Spartan:Knuckle2
+    13700054: Spartan:Knuckle2 1
+    13700056: Spartan:Knuckle3
+    13700058: Spartan:Knuckle3 1
+    13700060: Spartan:Leg
+    13700062: Spartan:Leg 1
+    13700064: Spartan:Lower_torso
+    13700066: Spartan:Neck
+    13700068: Spartan:pCylinder1
+    13700070: Spartan:pCylinder1 1
+    13700072: Spartan:pCylinder2
+    13700074: Spartan:pCylinder2 1
+    13700076: Spartan:pCylinder3
+    13700078: Spartan:pCylinder3 1
+    13700080: Spartan:pCylinder3 2
+    13700082: Spartan:pCylinder3 3
+    13700084: Spartan:pCylinder3 4
+    13700086: Spartan:pCylinder3 5
+    13700088: Spartan:pCylinder3 6
+    13700090: Spartan:pCylinder3 7
+    13700092: Spartan:pCylinder4
+    13700094: Spartan:pCylinder4 1
+    13700096: Spartan:pCylinder4 2
+    13700098: Spartan:pCylinder4 3
+    13700100: Spartan:pCylinder4 4
+    13700102: Spartan:pCylinder4 5
+    13700104: Spartan:pCylinder4 6
+    13700106: Spartan:pCylinder4 7
+    13700108: Spartan:pCylinder5
+    13700110: Spartan:pCylinder5 1
+    13700112: Spartan:pCylinder5 2
+    13700114: Spartan:pCylinder5 3
+    13700116: Spartan:pCylinder5 4
+    13700118: Spartan:pCylinder5 5
+    13700120: Spartan:pCylinder5 6
+    13700122: Spartan:pCylinder5 7
+    13700124: Spartan:pSphere10
+    13700126: Spartan:pSphere10 1
+    13700128: Spartan:pSphere10 2
+    13700130: Spartan:pSphere10 3
+    13700132: Spartan:pSphere10 4
+    13700134: Spartan:pSphere10 5
+    13700136: Spartan:pSphere10 6
+    13700138: Spartan:pSphere10 7
+    13700140: Spartan:pSphere8
+    13700142: Spartan:pSphere8 1
+    13700144: Spartan:pSphere9
+    13700146: Spartan:pSphere9 1
+    13700148: Spartan:pSphere9 2
+    13700150: Spartan:pSphere9 3
+    13700152: Spartan:pSphere9 4
+    13700154: Spartan:pSphere9 5
+    13700156: Spartan:pSphere9 6
+    13700158: Spartan:pSphere9 7
+    13700160: Spartan:Sholder
+    13700162: Spartan:Sholder 1
+    13700164: Spartan:Thigh
+    13700166: Spartan:Thigh 1
+    13700168: Spartan:Thigh_1
+    13700170: Spartan:Thigh_1 1
+    13700172: Spartan:Thumb_Base
+    13700174: Spartan:Thumb_Base 1
+    13700176: Spartan:Toes
+    13700178: Spartan:Toes 1
+    13700180: Spartan:Torso1
+    13700182: Spartan:Waist 1
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
