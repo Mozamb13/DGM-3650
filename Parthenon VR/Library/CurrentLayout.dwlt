@@ -20,7 +20,7 @@ MonoBehaviour:
   m_ShowMode: 4
   m_Title: 
   m_RootView: {fileID: 2}
-  m_MinSize: {x: 950, y: 513}
+  m_MinSize: {x: 950, y: 613}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &2
 MonoBehaviour:
@@ -43,7 +43,7 @@ MonoBehaviour:
     y: 0
     width: 1389
     height: 852
-  m_MinSize: {x: 950, y: 513}
+  m_MinSize: {x: 950, y: 613}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &3
 MonoBehaviour:
@@ -107,10 +107,10 @@ MonoBehaviour:
     y: 30
     width: 1389
     height: 802
-  m_MinSize: {x: 883, y: 463}
+  m_MinSize: {x: 683, y: 563}
   m_MaxSize: {x: 18008, y: 14042}
   vertical: 0
-  controlID: 131
+  controlID: 28
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -132,10 +132,10 @@ MonoBehaviour:
     y: 0
     width: 908
     height: 802
-  m_MinSize: {x: 402, y: 463}
-  m_MaxSize: {x: 4002, y: 10111}
+  m_MinSize: {x: 202, y: 563}
+  m_MaxSize: {x: 4002, y: 12063}
   vertical: 1
-  controlID: 75
+  controlID: 29
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -154,14 +154,14 @@ MonoBehaviour:
     y: 0
     width: 908
     height: 339
-  m_MinSize: {x: 402, y: 121}
-  m_MaxSize: {x: 2050, y: 2069}
-  m_ActualView: {fileID: 17}
+  m_MinSize: {x: 202, y: 221}
+  m_MaxSize: {x: 4002, y: 4021}
+  m_ActualView: {fileID: 16}
   m_Panes:
   - {fileID: 16}
   - {fileID: 17}
-  m_Selected: 1
-  m_LastSelected: 0
+  m_Selected: 0
+  m_LastSelected: 1
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -261,7 +261,7 @@ MonoBehaviour:
   m_MinSize: {x: 277, y: 342}
   m_MaxSize: {x: 10002, y: 14042}
   vertical: 1
-  controlID: 132
+  controlID: 129
 --- !u!114 &12
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -448,14 +448,14 @@ MonoBehaviour:
     height: 318
   m_PersistentViewDataDictionary: {fileID: 0}
   m_SceneLighting: 1
-  lastFramingTime: 374.61644101142883
+  lastFramingTime: 18505.55522799492
   m_2DMode: 0
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 410.6815, y: 143, z: 0.35660166}
+    m_Target: {x: -10.3, y: -5.4, z: 0}
     speed: 2
-    m_Value: {x: 410.6815, y: 143, z: 0.35660166}
+    m_Value: {x: -10.3, y: -5.4, z: 0}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -475,28 +475,28 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
     yGrid:
-      m_Target: 1
+      m_Target: 0
       speed: 2
-      m_Value: 1
+      m_Value: 0
     zGrid:
       m_Target: 0
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: 0.018957553, y: 0.45634583, z: -0.009729953, w: 0.8895652}
+    m_Target: {x: -0.02933309, y: 0.7201359, z: -0.030474361, w: -0.6925568}
     speed: 2
-    m_Value: {x: 0.018957254, y: 0.45633858, z: -0.009729798, w: 0.8895511}
+    m_Value: {x: -0.02933309, y: 0.72013587, z: -0.03047436, w: -0.69255674}
   m_Size:
-    m_Target: 943.28894
+    m_Target: 21.989859
     speed: 2
-    m_Value: 943.28894
+    m_Value: 21.989859
   m_Ortho:
-    m_Target: 0
+    m_Target: 1
     speed: 2
-    m_Value: 0
+    m_Value: 1
   m_ShowGlobalGrid: 1
-  m_LastSceneViewRotation: {x: -0.08717229, y: 0.89959055, z: -0.21045254, w: -0.3726226}
-  m_LastSceneViewOrtho: 0
+  m_LastSceneViewRotation: {x: -0.00023484282, y: 0.6899469, z: -0.00020330095, w: -0.7238599}
+  m_LastSceneViewOrtho: 1
   m_ReplacementShader: {fileID: 0}
   m_ReplacementString: 
   m_LastLockedObject: {fileID: 0}
@@ -620,23 +620,23 @@ MonoBehaviour:
   m_PersistentViewDataDictionary: {fileID: 0}
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: ae5dfeff
-    m_LastClickedID: -107090
-    m_ExpandedIDs: be52feffe052feffb05dfeff8667feff70f9ffff0000000068400000ee4000000e41000012410000204100003a410000504100005e410000084200006e420000e8420000f0420000
+    m_SelectedIDs: 481a0000
+    m_LastClickedID: 0
+    m_ExpandedIDs: ccb6ffff8ec6ffff44d6ffff2ae5ffffdefbffff00000000ee210000f0220000d84f0000be500000085700004c580000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: Parthenon OG
-      m_OriginalName: Parthenon OG
+      m_Name: 
+      m_OriginalName: 
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: -1682
+      m_UserData: 0
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 0
+      m_OriginalEventType: 11
       m_IsRenamingFilename: 0
       m_ClientGUIView: {fileID: 10}
     m_SearchString: 
@@ -717,21 +717,21 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets
+    - Assets/VRTK/Documentation
   m_ViewMode: 1
   m_StartGridSize: 16
   m_LastFolders:
-  - Assets
+  - Assets/VRTK/Documentation
   m_LastFoldersGridSize: 16
   m_LastProjectPath: /Users/corbinwalker/Documents/Digital Media/DGM-3650/Parthenon
     VR
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: d02f0000
-    m_LastClickedID: 12240
-    m_ExpandedIDs: 00000000d02f0000d233000000ca9a3b
+    scrollPos: {x: 0, y: 27}
+    m_SelectedIDs: c41c0000
+    m_LastClickedID: 7364
+    m_ExpandedIDs: 00000000d20d00000e14000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -759,7 +759,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000d02f0000
+    m_ExpandedIDs: 00000000d20d00000e140000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -790,15 +790,15 @@ MonoBehaviour:
     m_ExpandedInstanceIDs: da9d00008e8600007c9f00003c9f00001e2a000040a10000e8a100005e2a0000ba401000b840100016001400c0a300009c3f000038a300000000000048a2040046a204005c260000de2c00005c2c00005e2d0000ca2a000064490000682b0000842a0000322d00004230000008300000383d0000ce280000642f0000183000009e2c00002c2f0000a42700004c2e0000a0400000a03400001c35000072280000103600008831000094390000104d00006c2600001e190000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: '[004 - Locomotion] Teleporting'
-      m_OriginalName: '[004 - Locomotion] Teleporting'
+      m_Name: GETTING_STARTED
+      m_OriginalName: GETTING_STARTED
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 12466
+      m_UserData: 6728
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
       m_OriginalEventType: 0
