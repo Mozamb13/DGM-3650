@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Parthenon OG.unity
+- path: Assets/Parthenon MD.unity
   isLoaded: 1
   isActive: 1
