@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parthenon VR", "Assembly-CSharp.csproj", "{0F297B5E-5674-C75E-EFE0-C3C01C418AC3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{0F297B5E-5674-C75E-EFE0-C3C01C418AC3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parthenon VR", "Assembly-CSharp-Editor.csproj", "{2BE78413-71C1-9D3A-F472-6BFFE5FA93CF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{2BE78413-71C1-9D3A-F472-6BFFE5FA93CF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
