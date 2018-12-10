@@ -293,6 +293,16 @@ ModelImporter:
     100574: Tree_008
     100576: Tree_009
     100578: Walls
+    100580: Parthenon
+    100582: polySurface34
+    100584: polySurface35
+    100586: polySurface37
+    100588: Main_Terrain
+    100590: Stairs_1
+    100592: Stairs_2
+    100594: distanceDimension1
+    100596: locator1
+    100598: locator2
     400000: COG
     400002: Doors
     400004: Doors_001
@@ -583,6 +593,16 @@ ModelImporter:
     400574: Tree_008
     400576: Tree_009
     400578: Walls
+    400580: Parthenon
+    400582: polySurface34
+    400584: polySurface35
+    400586: polySurface37
+    400588: Main_Terrain
+    400590: Stairs_1
+    400592: Stairs_2
+    400594: distanceDimension1
+    400596: locator1
+    400598: locator2
     2100000: lambert1
     2100002: lambert2
     2300000: Doors_001
@@ -727,6 +747,102 @@ ModelImporter:
     2300278: Tree_007
     2300280: Tree_008
     2300282: Tree_009
+    2300284: polySurface37
+    2300286: Spartan:Ankle
+    2300288: Spartan:Ankle 1
+    2300290: Spartan:Arc
+    2300292: Spartan:Arc 1
+    2300294: Spartan:Armpit
+    2300296: Spartan:Armpit 1
+    2300298: Spartan:Belt
+    2300300: Spartan:Bicep
+    2300302: Spartan:Bicep 1
+    2300304: Spartan:Bracer
+    2300306: Spartan:Bracer 1
+    2300308: Spartan:Cape1
+    2300310: Spartan:Cape_Pin
+    2300312: Spartan:Forearm
+    2300314: Spartan:Forearm 1
+    2300316: Spartan:Hand 2
+    2300318: Spartan:Hand 3
+    2300320: Spartan:head
+    2300322: Spartan:Heel
+    2300324: Spartan:Heel 1
+    2300326: Spartan:Knee
+    2300328: Spartan:Knee 1
+    2300330: Spartan:Knuckle
+    2300332: Spartan:Knuckle 1
+    2300334: Spartan:Knuckle1
+    2300336: Spartan:Knuckle1 1
+    2300338: Spartan:Knuckle2
+    2300340: Spartan:Knuckle2 1
+    2300342: Spartan:Knuckle3
+    2300344: Spartan:Knuckle3 1
+    2300346: Spartan:Leg
+    2300348: Spartan:Leg 1
+    2300350: Spartan:Lower_torso
+    2300352: Spartan:Neck
+    2300354: Spartan:pCylinder1
+    2300356: Spartan:pCylinder1 1
+    2300358: Spartan:pCylinder2
+    2300360: Spartan:pCylinder2 1
+    2300362: Spartan:pCylinder3
+    2300364: Spartan:pCylinder3 1
+    2300366: Spartan:pCylinder3 2
+    2300368: Spartan:pCylinder3 3
+    2300370: Spartan:pCylinder3 4
+    2300372: Spartan:pCylinder3 5
+    2300374: Spartan:pCylinder3 6
+    2300376: Spartan:pCylinder3 7
+    2300378: Spartan:pCylinder4
+    2300380: Spartan:pCylinder4 1
+    2300382: Spartan:pCylinder4 2
+    2300384: Spartan:pCylinder4 3
+    2300386: Spartan:pCylinder4 4
+    2300388: Spartan:pCylinder4 5
+    2300390: Spartan:pCylinder4 6
+    2300392: Spartan:pCylinder4 7
+    2300394: Spartan:pCylinder5
+    2300396: Spartan:pCylinder5 1
+    2300398: Spartan:pCylinder5 2
+    2300400: Spartan:pCylinder5 3
+    2300402: Spartan:pCylinder5 4
+    2300404: Spartan:pCylinder5 5
+    2300406: Spartan:pCylinder5 6
+    2300408: Spartan:pCylinder5 7
+    2300410: Spartan:pSphere10
+    2300412: Spartan:pSphere10 1
+    2300414: Spartan:pSphere10 2
+    2300416: Spartan:pSphere10 3
+    2300418: Spartan:pSphere10 4
+    2300420: Spartan:pSphere10 5
+    2300422: Spartan:pSphere10 6
+    2300424: Spartan:pSphere10 7
+    2300426: Spartan:pSphere8
+    2300428: Spartan:pSphere8 1
+    2300430: Spartan:pSphere9
+    2300432: Spartan:pSphere9 1
+    2300434: Spartan:pSphere9 2
+    2300436: Spartan:pSphere9 3
+    2300438: Spartan:pSphere9 4
+    2300440: Spartan:pSphere9 5
+    2300442: Spartan:pSphere9 6
+    2300444: Spartan:pSphere9 7
+    2300446: Spartan:Sholder
+    2300448: Spartan:Sholder 1
+    2300450: Spartan:Thigh
+    2300452: Spartan:Thigh 1
+    2300454: Spartan:Thigh_1
+    2300456: Spartan:Thigh_1 1
+    2300458: Spartan:Thumb_Base
+    2300460: Spartan:Thumb_Base 1
+    2300462: Spartan:Toes
+    2300464: Spartan:Toes 1
+    2300466: Spartan:Torso1
+    2300468: Spartan:Waist 1
+    2300470: Main_Terrain
+    2300472: Stairs_1
+    2300474: Stairs_2
     3300000: Doors_001
     3300002: Doors_002
     3300004: Doors_003
@@ -869,6 +985,102 @@ ModelImporter:
     3300278: Tree_007
     3300280: Tree_008
     3300282: Tree_009
+    3300284: polySurface37
+    3300286: Spartan:Ankle
+    3300288: Spartan:Ankle 1
+    3300290: Spartan:Arc
+    3300292: Spartan:Arc 1
+    3300294: Spartan:Armpit
+    3300296: Spartan:Armpit 1
+    3300298: Spartan:Belt
+    3300300: Spartan:Bicep
+    3300302: Spartan:Bicep 1
+    3300304: Spartan:Bracer
+    3300306: Spartan:Bracer 1
+    3300308: Spartan:Cape1
+    3300310: Spartan:Cape_Pin
+    3300312: Spartan:Forearm
+    3300314: Spartan:Forearm 1
+    3300316: Spartan:Hand 2
+    3300318: Spartan:Hand 3
+    3300320: Spartan:head
+    3300322: Spartan:Heel
+    3300324: Spartan:Heel 1
+    3300326: Spartan:Knee
+    3300328: Spartan:Knee 1
+    3300330: Spartan:Knuckle
+    3300332: Spartan:Knuckle 1
+    3300334: Spartan:Knuckle1
+    3300336: Spartan:Knuckle1 1
+    3300338: Spartan:Knuckle2
+    3300340: Spartan:Knuckle2 1
+    3300342: Spartan:Knuckle3
+    3300344: Spartan:Knuckle3 1
+    3300346: Spartan:Leg
+    3300348: Spartan:Leg 1
+    3300350: Spartan:Lower_torso
+    3300352: Spartan:Neck
+    3300354: Spartan:pCylinder1
+    3300356: Spartan:pCylinder1 1
+    3300358: Spartan:pCylinder2
+    3300360: Spartan:pCylinder2 1
+    3300362: Spartan:pCylinder3
+    3300364: Spartan:pCylinder3 1
+    3300366: Spartan:pCylinder3 2
+    3300368: Spartan:pCylinder3 3
+    3300370: Spartan:pCylinder3 4
+    3300372: Spartan:pCylinder3 5
+    3300374: Spartan:pCylinder3 6
+    3300376: Spartan:pCylinder3 7
+    3300378: Spartan:pCylinder4
+    3300380: Spartan:pCylinder4 1
+    3300382: Spartan:pCylinder4 2
+    3300384: Spartan:pCylinder4 3
+    3300386: Spartan:pCylinder4 4
+    3300388: Spartan:pCylinder4 5
+    3300390: Spartan:pCylinder4 6
+    3300392: Spartan:pCylinder4 7
+    3300394: Spartan:pCylinder5
+    3300396: Spartan:pCylinder5 1
+    3300398: Spartan:pCylinder5 2
+    3300400: Spartan:pCylinder5 3
+    3300402: Spartan:pCylinder5 4
+    3300404: Spartan:pCylinder5 5
+    3300406: Spartan:pCylinder5 6
+    3300408: Spartan:pCylinder5 7
+    3300410: Spartan:pSphere10
+    3300412: Spartan:pSphere10 1
+    3300414: Spartan:pSphere10 2
+    3300416: Spartan:pSphere10 3
+    3300418: Spartan:pSphere10 4
+    3300420: Spartan:pSphere10 5
+    3300422: Spartan:pSphere10 6
+    3300424: Spartan:pSphere10 7
+    3300426: Spartan:pSphere8
+    3300428: Spartan:pSphere8 1
+    3300430: Spartan:pSphere9
+    3300432: Spartan:pSphere9 1
+    3300434: Spartan:pSphere9 2
+    3300436: Spartan:pSphere9 3
+    3300438: Spartan:pSphere9 4
+    3300440: Spartan:pSphere9 5
+    3300442: Spartan:pSphere9 6
+    3300444: Spartan:pSphere9 7
+    3300446: Spartan:Sholder
+    3300448: Spartan:Sholder 1
+    3300450: Spartan:Thigh
+    3300452: Spartan:Thigh 1
+    3300454: Spartan:Thigh_1
+    3300456: Spartan:Thigh_1 1
+    3300458: Spartan:Thumb_Base
+    3300460: Spartan:Thumb_Base 1
+    3300462: Spartan:Toes
+    3300464: Spartan:Toes 1
+    3300466: Spartan:Torso1
+    3300468: Spartan:Waist 1
+    3300470: Main_Terrain
+    3300472: Stairs_1
+    3300474: Stairs_2
     4300000: Roof_Art
     4300002: Roof_Statue
     4300004: pCube3
@@ -1103,6 +1315,10 @@ ModelImporter:
     4300462: Doors_002
     4300464: Doors_003
     4300466: Doors_004
+    4300468: polySurface37
+    4300470: Stairs_1
+    4300472: Stairs_2
+    4300474: Main_Terrain
     6400000: Doors_001
     6400002: Doors_002
     6400004: Doors_003
@@ -1245,6 +1461,102 @@ ModelImporter:
     6400278: Tree_007
     6400280: Tree_008
     6400282: Tree_009
+    6400284: polySurface37
+    6400286: Spartan:Ankle
+    6400288: Spartan:Ankle 1
+    6400290: Spartan:Arc
+    6400292: Spartan:Arc 1
+    6400294: Spartan:Armpit
+    6400296: Spartan:Armpit 1
+    6400298: Spartan:Belt
+    6400300: Spartan:Bicep
+    6400302: Spartan:Bicep 1
+    6400304: Spartan:Bracer
+    6400306: Spartan:Bracer 1
+    6400308: Spartan:Cape1
+    6400310: Spartan:Cape_Pin
+    6400312: Spartan:Forearm
+    6400314: Spartan:Forearm 1
+    6400316: Spartan:Hand 2
+    6400318: Spartan:Hand 3
+    6400320: Spartan:head
+    6400322: Spartan:Heel
+    6400324: Spartan:Heel 1
+    6400326: Spartan:Knee
+    6400328: Spartan:Knee 1
+    6400330: Spartan:Knuckle
+    6400332: Spartan:Knuckle 1
+    6400334: Spartan:Knuckle1
+    6400336: Spartan:Knuckle1 1
+    6400338: Spartan:Knuckle2
+    6400340: Spartan:Knuckle2 1
+    6400342: Spartan:Knuckle3
+    6400344: Spartan:Knuckle3 1
+    6400346: Spartan:Leg
+    6400348: Spartan:Leg 1
+    6400350: Spartan:Lower_torso
+    6400352: Spartan:Neck
+    6400354: Spartan:pCylinder1
+    6400356: Spartan:pCylinder1 1
+    6400358: Spartan:pCylinder2
+    6400360: Spartan:pCylinder2 1
+    6400362: Spartan:pCylinder3
+    6400364: Spartan:pCylinder3 1
+    6400366: Spartan:pCylinder3 2
+    6400368: Spartan:pCylinder3 3
+    6400370: Spartan:pCylinder3 4
+    6400372: Spartan:pCylinder3 5
+    6400374: Spartan:pCylinder3 6
+    6400376: Spartan:pCylinder3 7
+    6400378: Spartan:pCylinder4
+    6400380: Spartan:pCylinder4 1
+    6400382: Spartan:pCylinder4 2
+    6400384: Spartan:pCylinder4 3
+    6400386: Spartan:pCylinder4 4
+    6400388: Spartan:pCylinder4 5
+    6400390: Spartan:pCylinder4 6
+    6400392: Spartan:pCylinder4 7
+    6400394: Spartan:pCylinder5
+    6400396: Spartan:pCylinder5 1
+    6400398: Spartan:pCylinder5 2
+    6400400: Spartan:pCylinder5 3
+    6400402: Spartan:pCylinder5 4
+    6400404: Spartan:pCylinder5 5
+    6400406: Spartan:pCylinder5 6
+    6400408: Spartan:pCylinder5 7
+    6400410: Spartan:pSphere10
+    6400412: Spartan:pSphere10 1
+    6400414: Spartan:pSphere10 2
+    6400416: Spartan:pSphere10 3
+    6400418: Spartan:pSphere10 4
+    6400420: Spartan:pSphere10 5
+    6400422: Spartan:pSphere10 6
+    6400424: Spartan:pSphere10 7
+    6400426: Spartan:pSphere8
+    6400428: Spartan:pSphere8 1
+    6400430: Spartan:pSphere9
+    6400432: Spartan:pSphere9 1
+    6400434: Spartan:pSphere9 2
+    6400436: Spartan:pSphere9 3
+    6400438: Spartan:pSphere9 4
+    6400440: Spartan:pSphere9 5
+    6400442: Spartan:pSphere9 6
+    6400444: Spartan:pSphere9 7
+    6400446: Spartan:Sholder
+    6400448: Spartan:Sholder 1
+    6400450: Spartan:Thigh
+    6400452: Spartan:Thigh 1
+    6400454: Spartan:Thigh_1
+    6400456: Spartan:Thigh_1 1
+    6400458: Spartan:Thumb_Base
+    6400460: Spartan:Thumb_Base 1
+    6400462: Spartan:Toes
+    6400464: Spartan:Toes 1
+    6400466: Spartan:Torso1
+    6400468: Spartan:Waist 1
+    6400470: Main_Terrain
+    6400472: Stairs_1
+    6400474: Stairs_2
     9500000: //RootNode
     13700000: Spartan:Ankle
     13700002: Spartan:Ankle 1
@@ -1389,7 +1701,7 @@ ModelImporter:
     secondaryUVHardAngle: 88
     secondaryUVPackMargin: 4
     useFileScale: 1
-    previousCalculatedGlobalScale: 0.01
+    previousCalculatedGlobalScale: 0.30479997
     hasPreviousCalculatedGlobalScale: 1
   tangentSpace:
     normalSmoothAngle: 60
